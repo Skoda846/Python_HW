@@ -1,0 +1,18 @@
+   НАЙДЕННЫЕ ДЕФЕКТЫ В StringUtils:
+
+   [DEF-001] [Высокая] Не обрабатывает None в параметрах
+   - capitalize(None): AttributeError вместо TypeError
+   - contains("test", None): TypeError в string.index()
+   - delete_symbol("test", None): TypeError через contains
+   - trim(None): AttributeError в startswith()
+   Рекомендация: Добавить if not isinstance(param, str): raise TypeError("Expected str, got None")
+
+   [DEF-002] [Средняя] trim не удаляет табуляцию и другие whitespace
+   - trim("\t skypro") → "\t skypro" (оставляет таб)
+   - trim("  skypro") → " skypro" (цикл проверяет только одиночный пробел)
+   Рекомендация: return string.lstrip() — стандартный метод для всех whitespace
+
+   [DEF-003] [Низкая] contains использует index() вместо in (менее читаемо)
+   - Работает правильно, но string in symbol было бы проще
+   Рекомендация: return symbol in string (более pythonic)
+
