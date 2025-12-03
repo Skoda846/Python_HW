@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9dc2f0e2-bd36-4996-963e-66ae4983d480" name="Changes" comment="Lesson_08" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/Lesson_09" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson9" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Skoda846&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Skoda846/Python_HW.git&quot;,
+    &quot;accountId&quot;: &quot;496c6475-7749-4e67-8620-0e398f76ff01&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Lesson_07/saucedemo_autotest/tests/test_saucedemo.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33jO6CguCElAQRfRYYhulwa9K5o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Lesson05_task1.oy.executor": "Run",
+    "Python tests.Python tests for test_company[post].test_authorization.executor": "Debug",
+    "Python tests.Python tests in debug_cart.py.executor": "Run",
+    "Python tests.Python tests in debug_cart_items.py.executor": "Run",
+    "Python tests.Python tests in test_01_form.py.executor": "Run",
+    "Python tests.Python tests in test_02_calc.py.executor": "Run",
+    "Python tests.Python tests in test_03_shop.py.executor": "Run",
+    "Python tests.Python tests in test_calculator.py.executor": "Run",
+    "Python tests.Python tests in test_company[post].py.executor": "Debug",
+    "Python tests.Python tests in test_projects[post].py.executor": "Debug",
+    "Python tests.Python tests in test_saucedemo.py.executor": "Run",
+    "Python tests.Python tests in test_string_utils.py.executor": "Run",
+    "Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup.executor": "Run",
+    "Python tests.pytest for Lesson_09.tests.test_simple.test_basic.executor": "Run",
+    "Python tests.pytest in test_crud_final.py.executor": "Run",
+    "Python tests.pytest in test_fixed.py.executor": "Run",
+    "Python tests.pytest in test_users_crud.py.executor": "Run",
+    "Python.Task1Selenium.executor": "Run",
+    "Python.Task_01.executor": "Run",
+    "Python.Task_02.executor": "Run",
+    "Python.Task_03.executor": "Run",
+    "Python.address.executor": "Run",
+    "Python.base_page.executor": "Run",
+    "Python.debug_cart.executor": "Run",
+    "Python.debug_cart_items.executor": "Run",
+    "Python.debug_test.executor": "Run",
+    "Python.lesson05_task2.executor": "Run",
+    "Python.lesson05_task3.executor": "Run",
+    "Python.lesson05_task4.executor": "Run",
+    "Python.lesson_1_task_1.executor": "Run",
+    "Python.lesson_1_task_2.executor": "Run",
+    "Python.lesson_1_task_3.executor": "Run",
+    "Python.lesson_1_task_4.executor": "Run",
+    "Python.lesson_1_task_5.executor": "Run",
+    "Python.lesson_2_task_1.executor": "Run",
+    "Python.lesson_2_task_2.executor": "Run",
+    "Python.lesson_2_task_3.executor": "Run",
+    "Python.lesson_2_task_4.executor": "Run",
+    "Python.lesson_2_task_5.executor": "Run",
+    "Python.lesson_2_task_6.executor": "Run",
+    "Python.lesson_2_task_7.executor": "Run",
+    "Python.lesson_2if.executor": "Run",
+    "Python.lesson_3_task_1.executor": "Run",
+    "Python.lesson_3_task_2.executor": "Run",
+    "Python.lesson_3_task_3.executor": "Run",
+    "Python.login_page.executor": "Run",
+    "Python.mailing.executor": "Run",
+    "Python.smartphone.executor": "Run",
+    "Python.user.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Lesson__09",
+    "last_opened_file_path": "C:/Users/User/Desktop/lesson_8",
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\lesson_8" />
+      <recent name="C:\GIT_HW\Python_HW\Lesson_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_crud_final.py">
+    <configuration name="Task1Selenium" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="C:\GIT_HW\Python_HW\Lesson5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson5/lesson05_task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in C:/GIT_HW/Python_HW/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Lesson_09.test_fail.test_pycharm_setup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.test_fail.test_pycharm_setup&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Lesson_09.tests.test_simple.test_basic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.tests.test_simple.test_basic&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_crud_final.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson_09/tests/test_crud_final.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixed.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_HW" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson_09/tests/test_fixed.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Task1Selenium" />
+      <item itemvalue="Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup" />
+      <item itemvalue="Python tests.pytest for Lesson_09.tests.test_simple.test_basic" />
+      <item itemvalue="Python tests.pytest in test_crud_final.py" />
+      <item itemvalue="Python tests.pytest in test_fixed.py" />
+      <item itemvalue="Python tests.Python tests in C:/GIT_HW/Python_HW/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in C:/GIT_HW/Python_HW/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py" />
+        <item itemvalue="Python tests.pytest in test_fixed.py" />
+        <item itemvalue="Python tests.pytest in test_crud_final.py" />
+        <item itemvalue="Python tests.pytest for Lesson_09.tests.test_simple.test_basic" />
+        <item itemvalue="Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dc2f0e2-bd36-4996-963e-66ae4983d480" name="Changes" comment="" />
+      <created>1759826837690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759826837690</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1759831141604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759831141604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson_1">
+      <option name="closed" value="true" />
+      <created>1759836155128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759836155128</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson2">
+      <option name="closed" value="true" />
+      <created>1759858643923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759858643923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson3">
+      <option name="closed" value="true" />
+      <created>1759916113469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759916113469</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson_4">
+      <option name="closed" value="true" />
+      <created>1761306643701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761306643701</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson5">
+      <option name="closed" value="true" />
+      <created>1762679607123</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762679607123</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson5">
+      <option name="closed" value="true" />
+      <created>1762680580907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762680580908</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson6">
+      <option name="closed" value="true" />
+      <created>1762689061276</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762689061276</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson6k">
+      <option name="closed" value="true" />
+      <created>1762871497761</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762871497761</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lesson_07">
+      <option name="closed" value="true" />
+      <created>1763981453971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763981453972</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Lesson_07">
+      <option name="closed" value="true" />
+      <created>1764445134489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764445134489</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Lesson_08">
+      <option name="closed" value="true" />
+      <created>1764446071194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764446071194</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Lesson_08">
+      <option name="closed" value="true" />
+      <created>1764669635471</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764669635471</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson9" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson_1" />
+    <MESSAGE value="Lesson2" />
+    <MESSAGE value="Lesson3" />
+    <MESSAGE value="Lesson_4" />
+    <MESSAGE value="Lesson5" />
+    <MESSAGE value="Lesson6" />
+    <MESSAGE value="Lesson6k" />
+    <MESSAGE value="Lesson_07" />
+    <MESSAGE value="Lesson_08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson_08" />
+  </component>
+</project>
