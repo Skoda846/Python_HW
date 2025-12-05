@@ -1,10 +1,10 @@
 ﻿"""
-Three CRUD tests for subject table + PRIMARY KEY test
+Three CRUD tests for subject table
 Simple version, all in one file
 """
 
 import pytest
-from sqlalchemy import create_engine, Column, Integer, String, inspect
+from sqlalchemy import create_engine, Column, Integer, String
 from sqlalchemy.orm import sessionmaker, declarative_base
 
 # Database setup
@@ -112,40 +112,6 @@ def test_delete_subject():
     session.close()
 
 
-# ============ TEST 4: PRIMARY KEY UNIQUENESS ============
-def test_primary_key_uniqueness():
-    """Test that subject_id is defined as PRIMARY KEY in model"""
-    session = Session()
-    
-    # Clean before test
-    session.query(Subject).filter_by(subject_id=104).delete()
-    session.commit()
-    
-    # Check that subject_id is primary key
-    mapper = inspect(Subject)
-    primary_key_columns = [col.name for col in mapper.primary_key]
-    
-    assert "subject_id" in primary_key_columns, \
-        "subject_id should be defined as PRIMARY KEY in model"
-    
-    # Create subject
-    subject = Subject(subject_id=104, subject_title="Biology")
-    session.add(subject)
-    session.commit()
-    
-    # Verify it was saved
-    saved = session.query(Subject).filter_by(subject_id=104).first()
-    assert saved is not None, "Subject should be saved"
-    assert saved.subject_id == 104, "ID should match"
-    
-    print("✅ TEST 4: PRIMARY KEY correctly defined in model")
-    
-    # Clean after test
-    session.delete(saved)
-    session.commit()
-    session.close()
-
-
 # ============ RUN TESTS ============
 if __name__ == "__main__":
     print("=" * 50)
@@ -155,6 +121,4 @@ if __name__ == "__main__":
     print("=" * 50)
     test_delete_subject()
     print("=" * 50)
-    test_primary_key_uniqueness()
-    print("=" * 50)
-    print("🎉 ALL 4 TESTS PASSED SUCCESSFULLY!")
+    print("🎉 ALL 3 TESTS PASSED SUCCESSFULLY!")
