@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc2f0e2-bd36-4996-963e-66ae4983d480" name="Changes" comment="Lesson_09" />
+    <list default="true" id="9dc2f0e2-bd36-4996-963e-66ae4983d480" name="Changes" comment="Lesson_09">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +95,10 @@
     "Python tests.Python tests in test_saucedemo.py.executor": "Run",
     "Python tests.Python tests in test_string_utils.py.executor": "Run",
     "Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup.executor": "Run",
+    "Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.executor": "Run",
+    "Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_duplicate_id_error_fixed.executor": "Run",
+    "Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title.executor": "Run",
+    "Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectCRUDOperations.test_delete_subject.executor": "Run",
     "Python tests.pytest for Lesson_09.tests.test_simple.test_basic.executor": "Run",
     "Python tests.pytest in test_crud_final.py.executor": "Run",
     "Python tests.pytest in test_fixed.py.executor": "Run",
@@ -132,7 +138,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Lesson__09",
+    "git-widget-placeholder": "#10 on Lesson__09",
     "last_opened_file_path": "C:/Users/User/Desktop/lesson_8",
     "settings.editor.selected.configurable": "configurable.group.python.group.settings"
   }
@@ -143,7 +149,7 @@
       <recent name="C:\GIT_HW\Python_HW\Lesson_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_crud_final.py">
+  <component name="RunManager" selected="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title">
     <configuration name="Task1Selenium" type="PythonConfigurationType" factoryName="Python">
       <module name="Python_HW" />
       <option name="ENV_FILES" value="" />
@@ -182,7 +188,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Lesson_09.test_fail.test_pycharm_setup" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,11 +201,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lesson_09.test_fail.test_pycharm_setup&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.test_subjects_crud.TestSubjectAdditionalTests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for Lesson_09.tests.test_simple.test_basic" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_duplicate_id_error_fixed" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,11 +218,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Lesson_09.tests.test_simple.test_basic&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_duplicate_id_error_fixed&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_crud_final.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +235,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson_09/tests/test_crud_final.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_fixed.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for Lesson_09.test_subjects_crud.TestSubjectCRUDOperations.test_delete_subject" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Python_HW" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,25 +252,25 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Lesson_09/tests/test_fixed.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;Lesson_09.test_subjects_crud.TestSubjectCRUDOperations.test_delete_subject&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.Task1Selenium" />
-      <item itemvalue="Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup" />
-      <item itemvalue="Python tests.pytest for Lesson_09.tests.test_simple.test_basic" />
-      <item itemvalue="Python tests.pytest in test_crud_final.py" />
-      <item itemvalue="Python tests.pytest in test_fixed.py" />
+      <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests" />
+      <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_duplicate_id_error_fixed" />
+      <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title" />
+      <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectCRUDOperations.test_delete_subject" />
       <item itemvalue="Python tests.Python tests in C:/GIT_HW/Python_HW/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_empty_title" />
+        <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectCRUDOperations.test_delete_subject" />
+        <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests.test_duplicate_id_error_fixed" />
+        <item itemvalue="Python tests.pytest for Lesson_09.test_subjects_crud.TestSubjectAdditionalTests" />
         <item itemvalue="Python tests.Python tests in C:/GIT_HW/Python_HW/Lesson_07/saucedemo_autotest/tests/tests/debug_cart.py" />
-        <item itemvalue="Python tests.pytest in test_fixed.py" />
-        <item itemvalue="Python tests.pytest in test_crud_final.py" />
-        <item itemvalue="Python tests.pytest for Lesson_09.tests.test_simple.test_basic" />
-        <item itemvalue="Python tests.pytest for Lesson_09.test_fail.test_pycharm_setup" />
       </list>
     </recent_temporary>
   </component>
