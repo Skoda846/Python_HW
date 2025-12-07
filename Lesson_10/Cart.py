@@ -3,7 +3,7 @@ import allure
 
 
 class Cart:
-    def __init__(self, driver):
+    def __init__(self, driver) -> None:
         """
         Конструктор класса Cart.
         :param driver: объект драйвера Selenium
@@ -11,7 +11,7 @@ class Cart:
         self.driver = driver
 
     @allure.step("Нажать кнопку checkout")
-    def push_button(self):
+    def push_button(self) -> None:
         """
         Метод нажимает на кнопку checkout
         :param check: str - текст на кнопке

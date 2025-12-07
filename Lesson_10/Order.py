@@ -3,7 +3,7 @@ import allure
 
 
 class Order:
-    def __init__(self, driver):
+    def __init__(self, driver) -> None:
         """
         Конструктор класса Order.
         :param driver: объект драйвера Selenium
@@ -11,7 +11,7 @@ class Order:
         self.driver = driver
 
     @allure.step("Заполнить форму {name}, {last_name}, {postal}, {next}")
-    def fill_form(self, name, last_name, postal, next):
+    def fill_form(self, name, last_name, postal, next) -> None:
         """
         Метод заполняет форму данными и нажимает кнопку 'continue'
         :param name: str - значение имени
@@ -37,7 +37,7 @@ class Order:
         next.click()
 
     @allure.step("Вернуть значение суммы {total}")
-    def check_cost(self, total):
+    def check_cost(self) -> str:
         """
         Метод возвращает итоговую сумму корзины
         :param total: str - текст итоговой суммы

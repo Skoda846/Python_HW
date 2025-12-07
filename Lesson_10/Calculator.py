@@ -23,7 +23,7 @@ class Calculator:
         delay_element.send_keys(delay)
 
 
-    def click_buttons(self, button):
+    def click_buttons(self, button) -> None:
         """
         Нажимает на кнопки калькулятора по очереди.
         :param buttons: list[str] — список текстов на кнопках,
@@ -34,7 +34,7 @@ class Calculator:
 
 
     @allure.step("Ожидание результата {expected_result}")
-    def waiting_for_result(self, expected_result, delay):
+    def waiting_for_result(self, expected_result, delay) -> None:
         """
         Задает время ожидания
         :param delay: int - время задержки в секундах
@@ -46,7 +46,7 @@ class Calculator:
                                                     expected_result))
 
     @allure.step("Получить результат")
-    def get_result(self):
+    def get_result(self) -> str:
         """
         Возвращает текст результата поля
         :param result: str - выводимый результат

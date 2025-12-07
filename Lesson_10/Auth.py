@@ -1,6 +1,6 @@
-from selenium.webdriver.common.by import By
 import allure
-
+from selenium.webdriver.common.by import By
+from selenium.webdriver.remote.webelement import WebElement
 
 class Auth:
     def __init__(self, driver):
@@ -11,7 +11,7 @@ class Auth:
         self.driver = driver
 
     @allure.step("Заполнить логин {login}")
-    def input_login(self, login):
+    def input_login(self, login: str) -> None:
         """
         Метод заполняет поле "Логин"
         :param login: str - значение логина
@@ -20,7 +20,7 @@ class Auth:
         log.send_keys(login)
 
     @allure.step("Заполнить пароль {password}")
-    def input_password(self, password):
+    def input_password(self, password: str) -> None:
         """
         Метод заполняет поле "Пароль"
         :param password: str - значение пароля
@@ -28,8 +28,8 @@ class Auth:
         pass_word = self.driver.find_element(By.CSS_SELECTOR, "#password")
         pass_word.send_keys(password)
 
-    @allure.step("Нажать ккнопку Submit")
-    def submit(self):
+    @allure.step("Нажать кнопку Submit")
+    def submit(self) -> None:
         """
         Нажимает кнопку Submit
         """

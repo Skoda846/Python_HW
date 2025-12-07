@@ -3,7 +3,7 @@ import allure
 
 
 class MainPage:
-    def __init__(self, driver):
+    def __init__(self, driver) -> None:
         """
         Конструктор класса MainPage.
         :param driver: объект драйвера Selenium
@@ -11,7 +11,7 @@ class MainPage:
         self.driver = driver
 
     @allure.step("Добавить товары в корзину")
-    def add_goods(self):
+    def add_goods(self) -> None:
         """
         Метод добавляет товары в корзину
         """
@@ -29,7 +29,7 @@ class MainPage:
         onesie.click()
 
     @allure.step("Перейти в корзину")
-    def go_to_cart(self):
+    def go_to_cart(self) -> None:
         """
         Метод осуществляет переход в корзину
         """
