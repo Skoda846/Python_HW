@@ -4,10 +4,31 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 class LoginPage:
+    """
+    Page Object для страницы авторизации Saucedemo.
+    Предоставляет методы для выполнения входа в систему.
+    """
+
     def __init__(self, driver):
+        """
+        Инициализирует LoginPage.
+
+        Args:
+            driver: Экземпляр WebDriver для управления браузером.
+        """
         self.driver = driver
 
     def login(self, username, password):
+        """
+        Выполняет вход в систему с указанными учетными данными.
+
+        Args:
+            username (str): Имя пользователя для авторизации.
+            password (str): Пароль пользователя для авторизации.
+
+        Returns:
+            None: Метод не возвращает значение, но переходит на главную страницу после успешного входа.
+        """
         self.driver.get("https://www.saucedemo.com/")
 
         wait = WebDriverWait(self.driver, 10)
